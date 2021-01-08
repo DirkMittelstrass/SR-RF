@@ -1,0 +1,18 @@
+You need 7-Zip installed (https://7-zip.org/)
+
+Find more info about how the following works at:
+https://sevenzip.osdn.jp/chm/cmdline/switches/sfx.htm
+
+
+Step:
+1. Actualize the files in the "ImageJ_update" subdirectory
+2. Go inside that folder, select all and right-click "7-Zip -> add to an archive..."
+3. Select archive format "7z", depacking option "actualize and add" and activate "self-extracting archive (SFX)" and zip it
+4. Name archive: "SR-RF_archive.exe"
+5. Zip SR-RF_archive.exe into "SR-RF_archive.7z" (without any none-default options)
+6. Put SR-RF_archive.7z in the same directory as Create_installer.bat
+7. Update version number in config.txt
+8. Run Create_installer.bat
+
+
+

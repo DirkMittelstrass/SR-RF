@@ -1,0 +1,14 @@
+﻿;!@Install@!UTF-8!
+BeginPrompt="SR-RF macro version 2021-01-07 installation
+
+The SR-RF macro as well as the necessary Plug-Ins has to be
+copied into the ImageJ directory. Old macro/plug-in 
+versions will be overwritten, newer will be retained. 
+Be aware, that the ImageJ start-up macro "StartupMacros.txt" 
+will also be overwritten.
+
+Please choose the filepath of your ImageJ installation.
+
+Continue?"
+RunProgram="SR-RF_archive.exe"
+;!@InstallEnd@!
