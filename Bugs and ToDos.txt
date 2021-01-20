@@ -1,0 +1,7 @@
+Bugs/ToDos 2021-01-19:
+- Activate “Delete first slice” by default
+- “Less than 2 image stacks available” appears at the wrong time
+- Add deactivated checkbox “Include sample cup ROI”
+- Rename “aliquot” to “sample cup”
+- Add changelog
+- Why stays Median_NAT open but not raw_REG?

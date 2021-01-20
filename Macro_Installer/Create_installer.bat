@@ -1,1 +1,1 @@
-copy /b 7zSD.sfx + config.txt + SR-RF_archive.7z inst_SR-RF_macro.exe
+copy /b 7zSD.sfx + config.txt + SR-RF_archive.7z SR-RF_macro_archive.exe
