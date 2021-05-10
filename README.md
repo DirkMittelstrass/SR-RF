@@ -17,5 +17,5 @@ This program is distributed in the hope that it will be useful, but
 WITHOUT ANY WARRANTY; without even the implied warranty of
 MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the [GNU
 General Public
-License](ADD LINK) for
+License](https://github.com/DirkMittelstrass/SR-RF/blob/master/LICENSE) for
 more details.
